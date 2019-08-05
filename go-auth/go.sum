@@ -4,6 +4,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-sql-driver/mysql v0.0.0-20161224121019-2e00b5cd7039 h1:wEMrGSwVd1wlRdyubAkfUrcH+oXfwZcoVOOPlX0FmcM=
 github.com/go-sql-driver/mysql v0.0.0-20161224121019-2e00b5cd7039/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
+github.com/golang/crypto v0.0.0-20181025213731-e84da0312774 h1:XSfzjOw/bKhTXIVkmk6NVuATPu3zFjxWfUnrpvi0iig=
+github.com/golang/crypto v0.0.0-20181025213731-e84da0312774/go.mod h1:uZvAcrsnNaCxlh1HorK5dUQHGmEKPh2H/Rl1kehswPo=
 github.com/gorilla/context v1.1.1 h1:AWwleXJkX/nhcU9bZSnZoi3h/qGYqQAGhq6zZe/aQW8=
 github.com/gorilla/context v1.1.1/go.mod h1:kBGZzfjB9CEq2AlWe17Uuf7NDRt0dE0s8S51q0aT7Yg=
 github.com/gorilla/mux v0.0.0-20170217192616-94e7d24fd285 h1:pBGAMRKP7Tpv4mOq+RgzKz+jAj+ylo9O8PiNoMmCuu8=

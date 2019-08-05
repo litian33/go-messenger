@@ -2,6 +2,8 @@ module go-messenger/go-auth
 
 go 1.12
 
+replace golang.org/x/crypto => github.com/golang/crypto v0.0.0-20181025213731-e84da0312774
+
 require (
 	github.com/codegangsta/cli v0.0.0-20170215051705-2526b57c56f3
 	github.com/davecgh/go-spew v1.1.1 // indirect
